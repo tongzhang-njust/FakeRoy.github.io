@@ -4,45 +4,19 @@
     <div class="sidebar-logo">
       <a href="{{site.baseurl}}/" class="logo">{% if site.name %}{{site.name}}{% else %}Fresh{% endif %}</a>
     </div>
-
-    <div class="menu-primary-container"><ul id="menu-imag" class="menunav-menu" aria-expanded="false"><li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-33"><a href="https://imag-njust.net">Home</a></li>
-      <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://imag-njust.net/news/">News</a></li>
-      <li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a href="https://imag-njust.net/people/">People</a>
-        <ul class="sub-menu">
-          <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://imag-njust.net/jinhui-tang/">Jinhui Tang</a></li>
-          <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://imag-njust.net/zcli/">Zechao Li</a></li>
-          <li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://imag-njust.net/jinshan-pan/">Jinshan Pan</a></li>
-          <li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://imag-njust.net/xiangboshu/">Xiangbo Shu</a></li>
-          <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="https://imag-njust.net/xinguang-xiang/">Xinguang Xiang</a></li>
-          <li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://imag-njust.net/yan-song/">Yan Song</a></li>
-          <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://imag-njust.net/yunlian-sun/">Yunlian Sun</a></li>
-          <li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://imag-njust.net/longquan-dai/">Longquan Dai</a></li>
-        </ul>
-      </li>
-      <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://imag-njust.net/research/">Research</a></li>
-      <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-37"><a href="https://imag-njust.net/publications/">Publications</a>
-        <ul class="sub-menu">
-          <li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-191 current_page_item menu-item-194"><a href="https://imag-njust.net/in-press/" aria-current="page">In Press</a></li>
-          <li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="https://imag-njust.net/2018-2/">2018</a></li>
-          <li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="https://imag-njust.net/2017-2/">2017</a></li>
-          <li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://imag-njust.net/2016-2/">2016</a></li>
-          <li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://imag-njust.net/2015-2/">2015</a></li>
-          <li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://imag-njust.net/2014-2/">2014</a></li>
-          <li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://imag-njust.net/before-2013/">Before 2013</a></li>
-        </ul>
-      </li>
-    </ul></div>
-
     <menu class="sidebar-menu">
       <li class="menu-items"><a class="menu-links" href="{{site.baseurl}}/">Home</a></li>
       <li class="menu-items"><a class="menu-links" href="{{site.baseurl}}/about/">About</a></li>
 
-      <li ><a class="menu-links" >Teacher</a>
-        <ul class="sub-menu">
-      <li ><a class="menu-links" href="{{site.baseurl}}/cui/">cui</a></li>
-      <li ><a class="menu-links" href="{{site.baseurl}}/xu/">xu</a></li>
-      </ul>
-      </li>
+     <!-- <li ><a class="menu-links" >Teacher</a>  -->
+
+          <div class="dropdown">
+            <button class="dropbtn">Teacher</button>
+            <div class="dropdown-content">
+              <a href="{{site.baseurl}}/cui/">cui</a>
+              <a href="{{site.baseurl}}/xu/">xu</a>
+            </div>
+          </div>
 
       <li ><a class="menu-links" >Student</a>
         <ul class="sub-menu">
@@ -69,3 +43,48 @@
 
   </div>
 </aside>
+
+  <meta charset="utf-8">
+  <style>
+    .dropbtn {
+      background-color: #4CAF50;
+      color: white;
+      padding: 16px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+    }
+
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    }
+
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+
+    .dropdown-content a:hover {background-color: #f1f1f1}
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+      background-color: #3e8e41;
+    }
+  </style>
+
+
+
