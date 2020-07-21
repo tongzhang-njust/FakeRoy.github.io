@@ -22,6 +22,9 @@ menu:
     url: '/'
   - title: 'Student'
     url: '/pages/Student/'
+    submenu:
+      - title: 'ye'
+        url: '/pages/YE'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
@@ -31,7 +34,7 @@ menu:
     url: '/pages/Teacher'
     submenu:
       - title: 'cui'
-        url: '/pages/CUI/'
+        url: '/pages/CUI'
 
 
 # Owner/author information
