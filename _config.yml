@@ -1,4 +1,4 @@
-title:            Blog Title
+title:            南京理工大学**实验室
 description:      Describe your website here.
 
 # put your disqus here
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: https://fakeroy.github.io/
 
 # draw your top menu here
 # each item must have a title and a url.
