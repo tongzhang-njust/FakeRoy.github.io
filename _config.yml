@@ -21,17 +21,17 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'Student'
-    url: '/Student/'
+    url: '/pages/Student/'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
   - title: 'Teacher'
-    url: '/Teacher/'
+    url: '/pages/Teacher'
     submenu:
       - title: 'cui'
-        url: '/CUI/'
+        url: '/pages/CUI/'
 
 
 # Owner/author information
