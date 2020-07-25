@@ -21,20 +21,20 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'Student'
-    url: '/pages/Student'
+    url: '/Student'
     submenu:
       - title: 'ye'
-        url: '/pages/YE'
+        url: '/YE'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
   - title: 'Teacher'
-    url: '/pages/Teacher'
+    url: '/Teacher'
     submenu:
       - title: 'cui'
-        url: '/pages/CUI'
+        url: '/CUI'
 
 
 # Owner/author information
