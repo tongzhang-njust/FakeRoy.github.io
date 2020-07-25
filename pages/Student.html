@@ -1,13 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-    <meta charset="UTF-8">
-    <title>Student</title>
-
     {% include head.html %}
-
 </head>
-<body>
+
+<body id="post-index">
+
+{% include browser-upgrade.html %}
+{% include header.html %}
+
 
 <header class="entry-header">
     <h1 class="entry-title">
@@ -28,7 +32,7 @@
             <table class="td" style="height: 169px;" border="0" width="1385" cellspacing="0" cellpadding="0">
                 <tbody>
                 <tr>
-                    <td align="left" valign="top" width="160" height="210"><a href="https://i0.wp.com/imag-njust.net/wp-content/uploads/2018/09/pan_jinshan.jpg?ssl=1"><img class="alignnone size-full wp-image-229" src="https://i0.wp.com/imag-njust.net/wp-content/uploads/2018/09/pan_jinshan.jpg?resize=177%2C236&amp;ssl=1" alt="" width="139" height="185"></a></td>
+
                     <td align="justify" valign="top" height="210">Daihu Ye .....&nbsp;<a href="https://imag-njust.net/jspan/">[中文版]</a></td>
                 </tr>
                 </tbody>
@@ -44,5 +48,10 @@
 
 
 </div>
+<div class="footer-wrapper">
+    <footer role="contentinfo">
+        {% include footer.html %}
+    </footer>
+</div><!-- /.footer-wrapper -->
 </body>
 </html>
