@@ -1,31 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-    <meta charset="UTF-8">
-    <title>Teacher</title>
-
-        {% include head.html %}
-
+    {% include head.html %}
 </head>
-<body>
 
-<header class="entry-header">
-    <h1 class="entry-title">
-        People         </h1>
-</header>
-<div class="entry-content clearfix">
-    <h6 style="clear: left;"><strong>Faculty</strong></h6>
-    <h6 style="clear: left;"><strong>Associated Faculty</strong></h6>
-    <h6 style="clear: left;"><strong>Ph.D Candidate</strong></h6>
-    <h6 style="clear: left;"><strong>Graduates</strong></h6>
-    <p>&nbsp;</p>
-    <table style="font-size: 17px;" border="1" width="120%" frame="void" rules="none">
-        <tbody>
-        <tr>
-        </tr>
+<body id="post-index">
 
-        </tbody>
-    </table>
-</div>
+{% include browser-upgrade.html %}
+{% include header.html %}
+
+<div id="main" role="main">
+    {{ content }}
+</div><!-- /#main -->
+
+{% include scripts.html %}
+
+<div class="footer-wrapper">
+    <footer role="contentinfo">
+        {% include footer.html %}
+    </footer>
+</div><!-- /.footer-wrapper -->
+
 </body>
 </html>
