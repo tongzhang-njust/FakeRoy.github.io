@@ -75,7 +75,7 @@ menu:
           url: '/pages/YE'
   - title: 'Introduction'
     url: '/Introduction'
-  - title: 'Categories'
+  - title: 'Publications'
     url: '/categories'
     type: 'categories'
   - title: 'Teacher'
