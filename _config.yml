@@ -77,7 +77,7 @@ menu:
     url: '/Introduction'
   - title: 'Publications'
     url: '/categories'
-    type: 'categories'
+    
   - title: 'Teacher'
     url: '/pages/Teacher'
     submenu:
