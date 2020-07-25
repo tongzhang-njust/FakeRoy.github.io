@@ -1,0 +1,47 @@
+---
+layout: home
+title: Tag Archive
+comments: false
+---
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+
+<div class="main-content-section clearfix">
+    <div id="primary">
+        <div id="content" class="clearfix">
+
+
+            <div class="article-container">
+
+
+
+                <article id="post-4" class="post-4 page type-page status-publish hentry">
+
+
+                    <header class="entry-header">
+                        <h2 class="entry-title">
+                            IMAG@NJUST   		</h2>
+                    </header>
+
+                    <div class="entry-content clearfix">
+                        <p>Welcome to .</p>
+                        <h3>Latest News</h3>
+                        <ul>
+
+                        </ul>
+                    </div>
+
+                    <div class="entry-footer">
+                    </div>
+
+                </article>
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>

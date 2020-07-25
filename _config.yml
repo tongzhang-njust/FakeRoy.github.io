@@ -25,8 +25,8 @@ menu:
     submenu:
       - title: 'ye'
         url: '/pages/YE'
-  - title: 'Tags'
-    url: '/tags'
+  - title: 'Introduction'
+    url: '/Introduction'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
