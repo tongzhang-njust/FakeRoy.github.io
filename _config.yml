@@ -21,7 +21,7 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'Student'
-    url: '/pages/Student/'
+    url: '/pages/Student'
     submenu:
       - title: 'ye'
         url: '/pages/YE'
