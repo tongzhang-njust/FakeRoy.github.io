@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-26-sample-post-images.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-11-26-sample-post-images.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-27-video-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-28-sample-link-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-29-background-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-30-dark-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-01-code-highlighting-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-02-sample-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-26-sample-post-images.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-7-26-sample-post-images.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +56,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-11-26-sample-post-images.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-7-26-sample-post-images.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -205,12 +199,12 @@
       <updated>1595305961222</updated>
       <workItem from="1595305972267" duration="7834000" />
       <workItem from="1595667585824" duration="14594000" />
-      <workItem from="1595735280849" duration="8006000" />
+      <workItem from="1595735280849" duration="8246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30434000" />
+    <option name="totallyTimeSpent" value="30674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -592,11 +586,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-26-sample-post-images.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-7-26-sample-post-images.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
