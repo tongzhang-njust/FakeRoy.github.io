@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Student.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/Student.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="94" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
+            <state relative-caret-position="626">
+              <caret line="173" column="385" selection-start-line="173" selection-start-column="385" selection-end-line="173" selection-end-column="385" />
               <folding>
                 <element signature="n#style#0;n#h6#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#1;n#div#0;n#!!top" expanded="true" />
@@ -174,12 +173,12 @@
       <workItem from="1595305972267" duration="7834000" />
       <workItem from="1595667585824" duration="14594000" />
       <workItem from="1595735280849" duration="8871000" />
-      <workItem from="1596179830430" duration="3910000" />
+      <workItem from="1596179830430" duration="5959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35209000" />
+    <option name="totallyTimeSpent" value="37258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -231,7 +230,7 @@
     <entry file="file://$PROJECT_DIR$/images/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/LabName.JPG">
+    <entry file="file://$PROJECT_DIR$/images/LabName.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/YE.html" />
@@ -446,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/Student.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="94" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
+        <state relative-caret-position="626">
+          <caret line="173" column="385" selection-start-line="173" selection-start-column="385" selection-end-line="173" selection-end-column="385" />
           <folding>
             <element signature="n#style#0;n#h6#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#1;n#div#0;n#!!top" expanded="true" />
