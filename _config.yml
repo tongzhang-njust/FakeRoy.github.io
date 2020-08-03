@@ -30,7 +30,7 @@ menu:
     url: '/pages/Teacher'
     submenu:
       - title: 'Cui Zhen'
-        url: '/pages/CUI'
+        url: '/pages/CuiZhen'
       - title: 'Xu Chunyan'
         url: '/pages/XuChunyan'
       - title: 'Zhang Tong'
