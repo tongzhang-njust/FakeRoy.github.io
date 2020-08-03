@@ -33,7 +33,8 @@ menu:
         url: '/pages/CUI'
       - title: 'Xu Chunyan'
         url: '/pages/XuChunyan'
-
+      - title: 'Zhang Tong'
+        url: '/pages/ZhangTong'
 
 # Owner/author information
 owner:
