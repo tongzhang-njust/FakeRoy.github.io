@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/HongXiaobin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/LiuBinhui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/XuGongping.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/YuZhengling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/ZhangShumin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ChenYang.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ChenYang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/FangYuan.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/FangYuan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/HongXiaobing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/SunYinghui.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/LaoLingjie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/LaoLingjie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/LiuBinghui.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/WuQianliang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/LuoQiyu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/LuoQiyu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/SunYingHui.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/SunYufei.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/SunYufei.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/WangChaoqun.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/WangChaoqun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/WangYun.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/WangYun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/WangZili.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/WangZili.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Wuqianliang.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/XuGongpin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/XuJingshan.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/XuJingshan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/XuXuran.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/XuXuran.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/XuZiqiang.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/XuZiqiang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/YeDaihu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/YeDaihu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/YuZhenling.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ZhangShuming.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ZhangXueya.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ZhangXueya.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ZhaoWenting.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ZhaoWenting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ZhaoYue.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ZhaoYue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ZhouChuanwei.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ZhouChuanwei.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ZhouLing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ZhouLing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ZhuXiaohan.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ZhuXiaohan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/lvHui.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/lvHui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/赵月.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/赵月.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lvHui.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/LvHui.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,17 +17,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/Student.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/CuiZhen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="70" column="48" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
+            <state relative-caret-position="475">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="19" />
               <folding>
-                <element signature="n#style#0;n#h6#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h6#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h6#2;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#2167#2173#0" expanded="true" />
+                <element signature="e#2174#2180#0" expanded="true" />
+                <element signature="e#2181#2187#0" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/XuChunyan.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -231,12 +217,12 @@
       <workItem from="1595667585824" duration="14594000" />
       <workItem from="1595735280849" duration="8871000" />
       <workItem from="1596179830430" duration="7277000" />
-      <workItem from="1596422123535" duration="11352000" />
+      <workItem from="1596422123535" duration="12132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49928000" />
+    <option name="totallyTimeSpent" value="50708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -410,22 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/CuiZhen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#2167#2173#0" expanded="true" />
-            <element signature="e#2174#2180#0" expanded="true" />
-            <element signature="e#2181#2187#0" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/Teacher.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -533,7 +503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/lvHui.html">
+    <entry file="file://$PROJECT_DIR$/pages/LvHui.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="594" selection-start-line="9" selection-start-column="594" selection-end-line="9" selection-end-column="594" />
@@ -559,19 +529,6 @@
           <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/XuChunyan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="10" lean-forward="true" selection-end-line="31" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -739,14 +696,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/Student.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" column="48" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
+        <state relative-caret-position="228">
+          <caret line="12" column="82" lean-forward="true" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
           <folding>
             <element signature="n#style#0;n#h6#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#2;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/CuiZhen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#2167#2173#0" expanded="true" />
+            <element signature="e#2174#2180#0" expanded="true" />
+            <element signature="e#2181#2187#0" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/XuChunyan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
