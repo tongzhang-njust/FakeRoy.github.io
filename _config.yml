@@ -24,6 +24,8 @@ menu:
     url: '/pages/Student'
   - title: 'blog'
     url: '/blog'
+  - title: 'Resource'
+    url: '/Resource'
   - title: 'Publications'
     url: '/pages/Publications'
     submenu:
