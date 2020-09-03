@@ -543,7 +543,7 @@ ul.social-buttons li a:active {
 	}
 }
 .header-menu-top{
-	
+
 	background-color: $menu-top;
 	box-shadow: 0px 6px 5px rgba(0, 0, 0, 0.4);
 }
@@ -557,8 +557,11 @@ ul.social-buttons li a:active {
 	color: $white;
 }
 
+.header-item-container {
+	width: 1200px;
+}
 .header-menu-top .sub-item{
-	width: 1300px;
+	
 	background-color: $menu-top;
 }
 
