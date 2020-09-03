@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/magnific-popup/magnific-popup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/magnific-popup/magnific-popup.scss" afterDir="false" />
-    </list>
+    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,12 +224,12 @@
       <workItem from="1596422123535" duration="13255000" />
       <workItem from="1597289406067" duration="11511000" />
       <workItem from="1598669898120" duration="6232000" />
-      <workItem from="1599104195151" duration="618000" />
+      <workItem from="1599104195151" duration="1297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70192000" />
+    <option name="totallyTimeSpent" value="70871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
