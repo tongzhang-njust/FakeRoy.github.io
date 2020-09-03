@@ -533,6 +533,7 @@ ul.social-buttons li a:active {
 	height: $menu-height;
 	z-index: 20;
 	ul {
+		width: 1200px;
 		margin: 0 auto;
 		list-style-type: none;
 		height: 100%;
@@ -558,10 +559,10 @@ ul.social-buttons li a:active {
 }
 
 .header-item-container {
-	width: 1200px;
+	width: 1500px;
 }
 .header-menu-top .sub-item{
-	
+
 	background-color: $menu-top;
 }
 
