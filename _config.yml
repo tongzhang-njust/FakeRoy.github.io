@@ -51,7 +51,7 @@ menu:
       - title: 'Tong Zhang'
         url: '/pages/Teacher/ZhangTong'
       - title: 'Yong Li'
-          url: '/pages/Teacher/Liyong'
+        url: '/pages/Teacher/Liyong'
 
 # Owner/author information
 owner:
