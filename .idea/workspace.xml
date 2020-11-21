@@ -32,11 +32,35 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/同步文件夹/mmdetection" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/PersonalInformation/photos/resize.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="resize" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FakeRoy.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/resources/PersonalInformation/photos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resources/PersonalInformation/photos/resize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -57,7 +81,7 @@
       <workItem from="1597289406067" duration="11511000" />
       <workItem from="1598669898120" duration="6232000" />
       <workItem from="1599104195151" duration="8255000" />
-      <workItem from="1605854764193" duration="11330000" />
+      <workItem from="1605854764193" duration="13902000" />
     </task>
     <servers />
   </component>
@@ -65,10 +89,33 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1605876201748">
+    <state x="479" y="211" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605937439643">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605876201748" />
+    <state x="479" y="211" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937439643" />
+    <state x="892" y="347" key="FileChooserDialogImpl" timestamp="1605937408674">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="892" y="347" key="FileChooserDialogImpl/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937408674" />
+    <state width="1002" height="305" key="GridCell.Tab.0.bottom" timestamp="1605937507851">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937507851" />
+    <state width="1002" height="305" key="GridCell.Tab.0.center" timestamp="1605937507850">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937507850" />
+    <state width="1002" height="305" key="GridCell.Tab.0.left" timestamp="1605937507849">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937507849" />
+    <state width="1002" height="305" key="GridCell.Tab.0.right" timestamp="1605937507850">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937507850" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FakeRoy_github_io$resize.coverage" NAME="resize Coverage Results" MODIFIED="1605937473447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources/PersonalInformation/photos" />
   </component>
   <component name="masterDetails">
     <states>
