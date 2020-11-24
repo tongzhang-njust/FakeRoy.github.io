@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="" />
+    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/PersonalInformation/photos/resize.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/同步文件夹/mmdetection" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -81,7 +83,8 @@
       <workItem from="1597289406067" duration="11511000" />
       <workItem from="1598669898120" duration="6232000" />
       <workItem from="1599104195151" duration="8255000" />
-      <workItem from="1605854764193" duration="16212000" />
+      <workItem from="1605854764193" duration="17407000" />
+      <workItem from="1606204359351" duration="20000" />
     </task>
     <servers />
   </component>
@@ -93,26 +96,26 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="479" y="211" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937439643" />
-    <state x="892" y="347" key="FileChooserDialogImpl" timestamp="1605937408674">
+    <state x="892" y="347" key="FileChooserDialogImpl" timestamp="1606204377868">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="892" y="347" key="FileChooserDialogImpl/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937408674" />
-    <state width="1002" height="305" key="GridCell.Tab.0.bottom" timestamp="1605937507851">
+    <state x="892" y="347" key="FileChooserDialogImpl/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606204377868" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1606032816809">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937507851" />
-    <state width="1002" height="305" key="GridCell.Tab.0.center" timestamp="1605937507850">
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606032816809" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1606032816809">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937507850" />
-    <state width="1002" height="305" key="GridCell.Tab.0.left" timestamp="1605937507849">
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606032816809" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1606032816809">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937507849" />
-    <state width="1002" height="305" key="GridCell.Tab.0.right" timestamp="1605937507850">
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606032816809" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1606032816809">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1605937507850" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606032816809" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FakeRoy_github_io$resize.coverage" NAME="resize Coverage Results" MODIFIED="1605937473447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources/PersonalInformation/photos" />
