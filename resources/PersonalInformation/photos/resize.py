@@ -11,8 +11,14 @@ import glob
 
 import time
 import xml.etree.ElementTree as ET
-ImageFile.LOAD_TRUNCATED_IMAGES = True
+
 
 imagepath="D:/github desktop/FakeRoy.github.io/resources/PersonalInformation/photos/"
 imgsavepath="D:/github desktop/FakeRoy.github.io/resources/PersonalInformation/photos/resized/"
 
+for name in os.listdir(imagepath):
+    if(name.split(".")[-1]=="jpg"):
+        print(name)
+        img=Image.open(imagepath+name)
+        out=img.resize((84,127))
+        out.save(imgsavepath+name)
