@@ -18,16 +18,15 @@ url: https://fakeroy.github.io/
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: '主页<br>
-            Home'
+  - title: '主页<br>Home'
     url: '/Introduction'
-  - title: 'Student'
+  - title: '学生<br>Student'
     url: '/pages/Student/Student'
-  - title: 'blog'
+  - title: '博客<br>blog'
     url: '/pages/blog/blog'
-  - title: 'Resource'
+  - title: '资源<br>Resource'
     url: '/pages/Resource/Resource'
-  - title: 'Publications'
+  - title: '论文<br>Publications'
     url: '/pages/Publications/Publications'
     submenu:
       - title: '2020'
@@ -42,7 +41,7 @@ menu:
         url: '/pages/Publications/2016'
       - title: 'before  2015'
         url: '/pages/Publications/before2015'
-  - title: 'Teacher'
+  - title: '教师<br>Teacher'
     url: '/pages/Teacher/Teacher'
     submenu:
       - title: 'Zhen Cui'
