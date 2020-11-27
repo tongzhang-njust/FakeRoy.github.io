@@ -18,7 +18,8 @@ url: https://fakeroy.github.io/
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Home'
+  - title: '主页
+            Home'
     url: '/Introduction'
   - title: 'Student'
     url: '/pages/Student/Student'
