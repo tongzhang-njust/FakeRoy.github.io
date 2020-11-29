@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-26-paper.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-26-paper.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,7 @@
       <workItem from="1605854764193" duration="17407000" />
       <workItem from="1606204359351" duration="20000" />
       <workItem from="1606208934236" duration="744000" />
-      <workItem from="1606447434590" duration="27029000" />
+      <workItem from="1606447434590" duration="27331000" />
     </task>
     <servers />
   </component>
@@ -137,6 +137,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="479" y="211" width="1089" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606468867031" />
+    <state x="727" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606632640079">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="727" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606632640079" />
     <state x="892" y="347" key="FileChooserDialogImpl" timestamp="1606469145071">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
