@@ -66,7 +66,10 @@
       <recent name="D:\github desktop\FakeRoy.github.io\_posts" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Introduction.html">
+    <configuration name="Introduction.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FakeRoy.github.io/Introduction.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="resize" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="FakeRoy.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,6 +92,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.resize" />
+      <item itemvalue="JavaScript Debug.Introduction.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Introduction.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -112,7 +124,7 @@
       <workItem from="1605854764193" duration="17407000" />
       <workItem from="1606204359351" duration="20000" />
       <workItem from="1606208934236" duration="744000" />
-      <workItem from="1606447434590" duration="27683000" />
+      <workItem from="1606447434590" duration="28040000" />
     </task>
     <servers />
   </component>
