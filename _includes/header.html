@@ -28,7 +28,7 @@
             </ul>
           </li>
         {% elsif menu.submenu %}
-          <li class="header-item  {{class}}" style="text-align: center"><a href="{{site.url}}{{menu.url}}"><h3> style="line-height: 90%"{{ menu.title }}</h3></a>
+          <li class="header-item  {{class}}" style="text-align: center"><a href="{{site.url}}{{menu.url}}"><h3 style="line-height: 95%"> {{ menu.title }}</h3></a>
             <ul class="header-submenu">
               {% for sub in menu.submenu %}
                 <li class="sub-item" style="text-align: center" ><a href="{{site.url}}{{sub.url}}">{{sub.title}}</a></li>
@@ -37,9 +37,9 @@
           </li>
         {% else %}
             {% if menu.url contains 'http://' or menu.url contains 'https://' %}
-                <li class="header-item {{class}}" style="text-align: center"><a href="{{menu.url}}" target="_blank"><h3 style="line-height: 90%">{{ menu.title }}</h3></a></li>
+                <li class="header-item {{class}}" style="text-align: center"><a href="{{menu.url}}" target="_blank"><h3 style="line-height: 95%">{{ menu.title }}</h3></a></li>
             {% else %}
-                <li class="header-item {{class}}" style="text-align: center"><a href="{{site.url}}{{menu.url}}"><h3 style="line-height: 90%" >{{ menu.title }}</h3></a></li>
+                <li class="header-item {{class}}" style="text-align: center"><a href="{{site.url}}{{menu.url}}"><h3 style="line-height: 95%" >{{ menu.title }}</h3></a></li>
             {% endif %}
         {% endif %}
       {% endfor %}
