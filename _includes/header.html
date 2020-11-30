@@ -28,10 +28,10 @@
             </ul>
           </li>
         {% elsif menu.submenu %}
-          <li class="header-item  {{class}}" style="text-align: center;line-height: 0%"><a href="{{site.url}}{{menu.url}}"><h3>{{ menu.title }}</h3></a>
+          <li class="header-item  {{class}}" style="text-align: center"><a href="{{site.url}}{{menu.url}}"><h3> style="line-height: 90%"{{ menu.title }}</h3></a>
             <ul class="header-submenu">
               {% for sub in menu.submenu %}
-                <li class="sub-item" style="text-align: center;line-height: 25px" ><a href="{{site.url}}{{sub.url}}">{{sub.title}}</a></li>
+                <li class="sub-item" style="text-align: center" ><a href="{{site.url}}{{sub.url}}">{{sub.title}}</a></li>
               {% endfor %}
             </ul>
           </li>
