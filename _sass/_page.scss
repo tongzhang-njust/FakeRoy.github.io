@@ -472,7 +472,7 @@ ul.social-buttons li a:active {
 	height: 50px;
 	@media #{$medium} {
 		background-color: $header-color;
-		min-height: 250px;
+		min-height: 200px;
 	}
 }
 .header-toggle{
