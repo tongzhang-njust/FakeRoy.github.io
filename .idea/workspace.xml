@@ -25,7 +25,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/Teacher/Teacher.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Teacher/Teacher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-29-papermd" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-29-paper.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/blog.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +100,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.resize" />
       <item itemvalue="JavaScript Debug.Introduction.html" />
+      <item itemvalue="Python.resize" />
     </list>
     <recent_temporary>
       <list>
@@ -126,7 +131,8 @@
       <workItem from="1605854764193" duration="17407000" />
       <workItem from="1606204359351" duration="20000" />
       <workItem from="1606208934236" duration="744000" />
-      <workItem from="1606447434590" duration="36792000" />
+      <workItem from="1606447434590" duration="37567000" />
+      <workItem from="1606885590030" duration="635000" />
     </task>
     <servers />
   </component>
@@ -143,6 +149,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="211" width="1089" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606468867031">
@@ -157,26 +164,26 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="892" y="347" key="FileChooserDialogImpl/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606469145071" />
-    <state width="1002" height="305" key="GridCell.Tab.0.bottom" timestamp="1606473904063">
+    <state width="1002" height="305" key="GridCell.Tab.0.bottom" timestamp="1606742143163">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606473904063" />
-    <state width="1002" height="305" key="GridCell.Tab.0.center" timestamp="1606473904062">
+    <state width="1002" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606742143163" />
+    <state width="1002" height="305" key="GridCell.Tab.0.center" timestamp="1606742143163">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606473904062" />
-    <state width="1002" height="305" key="GridCell.Tab.0.left" timestamp="1606473904062">
+    <state width="1002" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606742143163" />
+    <state width="1002" height="305" key="GridCell.Tab.0.left" timestamp="1606742143162">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606473904062" />
-    <state width="1002" height="305" key="GridCell.Tab.0.right" timestamp="1606473904062">
+    <state width="1002" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606742143162" />
+    <state width="1002" height="305" key="GridCell.Tab.0.right" timestamp="1606742143163">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606473904062" />
-    <state x="724" y="154" width="600" height="804" key="find.popup" timestamp="1606628676622">
+    <state width="1002" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606742143163" />
+    <state x="491" y="308" width="600" height="804" key="find.popup" timestamp="1606886130636">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="724" y="154" width="600" height="804" key="find.popup/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606628676622" />
+    <state x="491" y="308" width="600" height="804" key="find.popup/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606886130636" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FakeRoy_github_io$resize.coverage" NAME="resize Coverage Results" MODIFIED="1606469362539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources/PersonalInformation/photos" />
