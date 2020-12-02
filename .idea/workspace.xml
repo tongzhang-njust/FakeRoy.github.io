@@ -24,11 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/test.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +125,7 @@
       <workItem from="1606204359351" duration="20000" />
       <workItem from="1606208934236" duration="744000" />
       <workItem from="1606447434590" duration="37567000" />
-      <workItem from="1606885590030" duration="21154000" />
+      <workItem from="1606885590030" duration="21522000" />
     </task>
     <servers />
   </component>
@@ -177,10 +173,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1002" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606742143163" />
-    <state x="893" y="308" width="600" height="804" key="find.popup" timestamp="1606910889049">
+    <state x="893" y="308" width="600" height="804" key="find.popup" timestamp="1606911272880">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="893" y="308" width="600" height="804" key="find.popup/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606910889049" />
+    <state x="893" y="308" width="600" height="804" key="find.popup/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1606911272880" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FakeRoy_github_io$resize.coverage" NAME="resize Coverage Results" MODIFIED="1606469362539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources/PersonalInformation/photos" />
