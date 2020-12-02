@@ -13,7 +13,7 @@
 {% include header.html %}
 
 <div id="main" role="main">
-  <article class="hentry">
+  <div class="hentry">
     <div class="entry-content">
         {% if page.image.feature %}
             <div class="entry-image-index">
@@ -34,7 +34,7 @@
 <!--    {% include author.html %}-->
     {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
     {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
-  </article>
+  </div>
 </div><!-- /#main -->
 
 {% include scripts.html %}
