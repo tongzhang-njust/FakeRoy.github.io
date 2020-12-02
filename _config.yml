@@ -18,15 +18,15 @@ url: https://fakeroy.github.io/
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: '主页<br>Home'
+  - title: 'Home'
     url: '/Introduction'
-  - title: '学生<br>Student'
+  - title: 'Student'
     url: '/pages/Student/Student'
-  - title: '新闻<br>News'
+  - title: 'News'
     url: '/pages/News/News'
-  - title: '资源<br>Resource'
+  - title: 'Resource'
     url: '/pages/Resource/Resource'
-  - title: '论文<br>Publications'
+  - title: 'Publications'
     url: '/pages/Publications/Publications'
     submenu:
       - title: '2020'
@@ -41,7 +41,7 @@ menu:
         url: '/pages/Publications/2016'
       - title: 'before  2015'
         url: '/pages/Publications/before2015'
-  - title: '教师<br>Teacher'
+  - title: 'Teacher'
     url: '/pages/Teacher/Teacher'
     submenu:
       - title: 'Zhen Cui'
@@ -51,7 +51,7 @@ menu:
       - title: 'Tong Zhang'
         url: '/pages/Teacher/ZhangTong'
       - title: 'Yong Li'
-        url: '/pages/Teacher/Liyong'
+        url: '/pages/Teacher/LiYong'
 
 # Owner/author information
 owner:
@@ -67,7 +67,7 @@ owner:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 
 # Background image to be tiled on all pages
-background: 院办.jpg
+background: 背景.jpg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
