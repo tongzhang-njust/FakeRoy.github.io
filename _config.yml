@@ -20,28 +20,9 @@ url: https://fakeroy.github.io/
 menu:
   - title: 'Home'
     url: '/Introduction'
-  - title: 'Student'
-    url: '/pages/Student/Student'
   - title: 'News'
     url: '/pages/News/News'
-  - title: 'Resource'
-    url: '/pages/Resource/Resource'
-  - title: 'Publications'
-    url: '/pages/Publications/Publications'
-    submenu:
-      - title: '2020'
-        url: '/pages/Publications/2020'
-      - title: '2019'
-        url: '/pages/Publications/2019'
-      - title: '2018'
-        url: '/pages/Publications/2018'
-      - title: '2017'
-        url: '/pages/Publications/2017'
-      - title: '2016'
-        url: '/pages/Publications/2016'
-      - title: 'before  2015'
-        url: '/pages/Publications/before2015'
-  - title: 'Teacher'
+ - title: 'Teacher'
     url: '/pages/Teacher/Teacher'
     submenu:
       - title: 'Zhen Cui'
@@ -52,6 +33,27 @@ menu:
         url: '/pages/Teacher/ZhangTong'
       - title: 'Yong Li'
         url: '/pages/Teacher/LiYong'
+ - title: 'Publications'
+   url: '/pages/Publications/Publications'
+   submenu:
+     - title: '2020'
+       url: '/pages/Publications/2020'
+     - title: '2019'
+       url: '/pages/Publications/2019'
+     - title: '2018'
+       url: '/pages/Publications/2018'
+     - title: '2017'
+       url: '/pages/Publications/2017'
+     - title: '2016'
+       url: '/pages/Publications/2016'
+     - title: 'before  2015'
+       url: '/pages/Publications/before2015'
+ - title: 'Student'
+   url: '/pages/Student/Student'
+ - title: 'Resource'
+   url: '/pages/Resource/Resource'
+
+
 
 # Owner/author information
 owner:
