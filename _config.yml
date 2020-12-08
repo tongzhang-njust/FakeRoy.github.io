@@ -33,6 +33,8 @@ menu:
         url: '/pages/Teacher/ZhangTong'
       - title: 'Yong Li'
         url: '/pages/Teacher/LiYong'
+  - title: 'Students'
+    url: '/pages/Student/Student'
   - title: 'Publications'
     url: '/pages/Publications/Publications'
     submenu:
@@ -48,8 +50,7 @@ menu:
         url: '/pages/Publications/2016'
       - title: 'before  2015'
         url: '/pages/Publications/before2015'
-  - title: 'Students'
-    url: '/pages/Student/Student'
+
   - title: 'Resources'
     url: '/pages/Resource/Resource'
 
