@@ -22,7 +22,7 @@ menu:
     url: '/Introduction'
   - title: 'News'
     url: '/pages/News/News'
- - title: 'Teacher'
+ - title: 'Teachers'
     url: '/pages/Teacher/Teacher'
     submenu:
       - title: 'Zhen Cui'
@@ -48,9 +48,9 @@ menu:
        url: '/pages/Publications/2016'
      - title: 'before  2015'
        url: '/pages/Publications/before2015'
- - title: 'Student'
+ - title: 'Students'
    url: '/pages/Student/Student'
- - title: 'Resource'
+ - title: 'Resources'
    url: '/pages/Resource/Resource'
 
 
