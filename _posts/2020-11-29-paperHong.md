@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Congraulations for Xiaobin Hong"
+title: "Congratulations for Xiaobin Hong,Tong Zhang"
 description: "recent paper."
-tags: [paperWang]
+tags: [Xiaobin Hong,Tong Zhang]
 categories: [paper]
 ---
-祝贺洪晓斌的论文被AAAI收录。
+祝贺洪晓斌,张桐的论文被AAAI2021收录。
+论文题目:Xiaobin Hong, Tong Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, Jian Yang,Graph Game Embedding, AAAI 2021.
 
