@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations for Yun Wang, Tong Zhang of paper accepted by AAAI 21!"
+title: "Congratulations for Tong Zhang, Yun Wang of paper accepted by AAAI 21!"
 description: "recent paper."
 tags: [Yun Wang,Tong Zhang]
 categories: [Paper]
