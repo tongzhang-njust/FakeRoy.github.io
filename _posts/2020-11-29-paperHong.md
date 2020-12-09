@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "News"
+title: "Congraulations for Xiaobin Hong"
 description: "recent paper."
 tags: [paperWang]
 categories: [paper]
 ---
-祝贺王贇的论文被AAAI收录。
+祝贺洪晓斌的论文被AAAI收录。
 

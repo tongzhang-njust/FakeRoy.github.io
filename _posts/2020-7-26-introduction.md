@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News"
+title: "introduction"
 description: "Welcome."
 tags: [introduction]
 categories: [introduction]

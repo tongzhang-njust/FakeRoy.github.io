@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "News"
+title: "Congraulations for Yun Wang"
 description: "recent paper."
 tags: [paperHong]
 categories: [paper]
 ---
-祝贺洪晓斌的论文被AAAI收录。
+祝贺王贇的论文被AAAI收录。
 
