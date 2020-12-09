@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congraulations for Dr.Zhou"
+title: "News"
 description: "recent paper."
 tags: [paperZhou]
 categories: [paper]

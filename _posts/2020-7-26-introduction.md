@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to VGG@PCALab"
+title: "News"
 description: "Welcome."
 tags: [introduction]
 categories: [introduction]
