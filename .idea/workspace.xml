@@ -24,28 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/ChenYang.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/ChenYang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/FangYuan.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/FangYuan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/HongXiaobin.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/HongXiaobin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/LaoLingjie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/LaoLingjie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/LuoQiyu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/LuoQiyu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/SunYufei.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/SunYufei.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/WangChaoqun.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/WangChaoqun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/WangYun.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/WangYun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/WangZili.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/WangZili.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/XuGongping.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/XuGongping.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/XuJingshan.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/XuJingshan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/XuXuran.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/XuXuran.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/XuZiqiang.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/XuZiqiang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/YeDaihu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/YeDaihu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/ZhangShumin.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/ZhangShumin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/ZhangXueya.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/ZhangXueya.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/ZhaoYue.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/ZhaoYue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/ZhouLing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/ZhouLing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Student/Master/ZhuXiaohan.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/ZhuXiaohan.html" afterDir="false" />
-    </list>
+    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +127,7 @@
       <workItem from="1606447434590" duration="37567000" />
       <workItem from="1606885590030" duration="27221000" />
       <workItem from="1607398663704" duration="2581000" />
-      <workItem from="1607487377959" duration="6197000" />
+      <workItem from="1607487377959" duration="6512000" />
     </task>
     <servers />
   </component>
