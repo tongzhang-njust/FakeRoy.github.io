@@ -105,7 +105,7 @@ body {
 	.tag {
 		display: inline-block;
 		margin: 4px;
-		color: $white;
+		color: #a6e22e;
 		@include rounded(3px);
 		background-color: lighten($base-color,50);
 		span {
