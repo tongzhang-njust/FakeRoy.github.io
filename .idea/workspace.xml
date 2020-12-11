@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/Publications/Publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Publications/Publications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,7 @@
       <workItem from="1606885590030" duration="27221000" />
       <workItem from="1607398663704" duration="2581000" />
       <workItem from="1607487377959" duration="17660000" />
-      <workItem from="1607650020895" duration="12101000" />
+      <workItem from="1607650020895" duration="12847000" />
     </task>
     <servers />
   </component>

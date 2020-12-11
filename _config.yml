@@ -48,7 +48,7 @@ menu:
         url: '/pages/Publications/2017'
       - title: '2016'
         url: '/pages/Publications/2016'
-      - title: 'before  2015'
+      - title: 'Before  2015'
         url: '/pages/Publications/before2015'
 
   - title: 'Resources'
