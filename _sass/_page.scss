@@ -107,13 +107,13 @@ body {
 		margin: 4px;
 		color: #f92672;
 		@include rounded(3px);
-		background-color: #4bd963;
+		background-color: #e8e8e8;
 		span {
 			float: left;
 			padding: 2px 6px;
 		}
 		.count {
-			background-color: lighten($base-color,40);
+			background-color: #e8e8e8;
 			@include border-radius(3px,3px,0,0);
 		}
 		&:hover {
