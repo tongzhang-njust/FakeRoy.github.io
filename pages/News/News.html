@@ -20,16 +20,13 @@ comments: false
   <span class="anchor-bookmark" id="{{ this_word }}"></span>
 	<div>
 	<h2 class="tag-heading" style="font-size: 30px">{{ this_word }}</h2>
-		<table class="layui-table">
-            <colgroup>
-                <col>
-            </colgroup>
-        <tbody>
-    {% for post in site.categories[this_word] %}{% if post.title != null %}
 
-      <tr ><td><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;background-color: #e7eff2">{{ post.title }}</a></td></tr>
+    <ul>
+    {% for post in site.categories[this_word] %}{% if post.title != null %}
+        <button type="button" class="layui-btn layui-btn-radius" style="background-color: #e7eff2"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="line-height: 30px;">{{ post.title }}</a></button>
+
     {% endif %}{% endfor %}
-        </tbody>
-		</table>
+
+    </ul>
 	</div><!-- /.hentry -->
 {% endunless %}{% endfor %}
