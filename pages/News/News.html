@@ -20,14 +20,14 @@ comments: false
   <span class="anchor-bookmark" id="{{ this_word }}"></span>
 	<div>
 	<h2 class="tag-heading" style="font-size: 30px">{{ this_word }}</h2>
-		<table class="layui-table" style="border-collapse: separate;border-spacing: 15px 15px;border-radius: 1em;">
+		<table class="layui-table" style="border-collapse: separate;border-spacing: 15px 15px;border-radius: 1em;border: 1px">
             <colgroup>
                 <col>
             </colgroup>
         <tbody>
     {% for post in site.categories[this_word] %}{% if post.title != null %}
 
-      <tr ><td href="{{ site.url }}{{ post.url }}" style="border-collapse: separate;border-spacing: 15px 15px;border-radius: 1em;"><a  href="" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}</a></td></tr>
+      <tr style="border-collapse: separate;border-spacing: 15px 15px;border-radius: 1em;border: 1em;"><td href="{{ site.url }}{{ post.url }}" ><a  href="" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}</a></td></tr>
     {% endif %}{% endfor %}
         </tbody>
 		</table>
