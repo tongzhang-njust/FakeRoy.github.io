@@ -27,7 +27,7 @@ comments: false
         <tbody>
     {% for post in site.categories[this_word] %}{% if post.title != null %}
 
-      <tr ><td><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px">{{ post.title }}</a></td></tr>
+      <tr ><td href="{{ site.url }}{{ post.url }}" style="border-collapse: separate;border-spacing: 15px 15px;border-radius: 1em;"><a  href="" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}</a></td></tr>
     {% endif %}{% endfor %}
         </tbody>
 		</table>
