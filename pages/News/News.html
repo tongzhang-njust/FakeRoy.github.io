@@ -19,10 +19,10 @@ comments: false
   {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
   <span class="anchor-bookmark" id="{{ this_word }}"></span>
 	<div>
-	<h2 class="tag-heading">{{ this_word }}</h2>
+	<h2 class="tag-heading" style="font-size: 30px">{{ this_word }}</h2>
 		<ul>
     {% for post in site.categories[this_word] %}{% if post.title != null %}
-      <li class="entry-title"><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 20px">{{ post.title }}</a></li>
+      <li class="entry-title"><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
 		</ul>
 	</div><!-- /.hentry -->
