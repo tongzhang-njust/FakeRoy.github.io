@@ -78,9 +78,9 @@ figure.center img{
   border-style: solid !important;
   border-color: $primary;
   @include rounded(3px);
-  //&:visited {
-  //  color: $white;
-  //}
+  &:visited {
+    color: rgba(#34,0.8);
+  }
   &:hover {
     background-color: $white;
     color: $primary;
