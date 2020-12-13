@@ -92,7 +92,7 @@ body {
 // --------------------------------------------------
 .entry-meta {
 	@include font-rem(12);
-	text-transform: uppercase;
+	//text-transform: uppercase;
 	color: lighten($base-color,60);
 	a {
 		color: lighten($base-color,60);
@@ -105,7 +105,7 @@ body {
 	.tag {
 		display: inline-block;
 		margin: 4px;
-		color: #009688;
+		color: $base-color;
 		@include rounded(3px);
 		background-color: #d2d2d2;
 		span {
@@ -402,9 +402,9 @@ ul.social-buttons li a:active {
 	@include clearfix;
 	margin: 2em auto;
 	text-align: center;
-	color: lighten($text-color,20);
+	color: #222;
 	a {
-		color: lighten($text-color,20);
+		color: #222;
 	}
 }
 
