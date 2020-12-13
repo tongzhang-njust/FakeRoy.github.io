@@ -22,9 +22,9 @@ h1 {
 a { 
 	text-decoration: none;
 	color: $link-color; 
-	&:visited { 
-		color: white;
-	}
+	//&:visited {
+	//	color: white;
+	//}
 	&:hover { 
 		color: darken($link-color, 20); 
 	}
