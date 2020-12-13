@@ -113,11 +113,11 @@ body {
 			padding: 2px 6px;
 		}
 		.term {
-			background-color: #009688;
+			background-color: #d2d2d2;
 			@include border-radius(3px,3px,0,0);
 		}
 		.count {
-			background-color: #5fb878;
+			background-color: #999;
 			@include border-radius(3px,3px,0,0);
 		}
 		&:hover {
