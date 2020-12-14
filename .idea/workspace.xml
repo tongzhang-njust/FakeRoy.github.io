@@ -25,7 +25,103 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/乔心舒.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/劳灵杰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/叶代虎.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/吕辉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/吴千亮.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/周传伟.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/周灵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/孙宇飞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/学生.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/崔振.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/张书敏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/张桐.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/张雪雅.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/徐功平.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/徐旭冉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/徐自强.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/徐静杉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/方远.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/朱小涵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/李勇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/柳宾辉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/洪晓斌.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/王子立.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/王贇.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/王超群.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/许春燕.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/赵文婷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/赵月.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/陈杨.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/韩草.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/rawimage/骆奇瑜.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/王赟.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Student/Master/XuGongping.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Master/XuGongping.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Student/Student.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Student/Student.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Teacher/Teacher.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Teacher/Teacher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/乔心舒.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/劳灵杰.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/叶代虎.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/吕辉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/吴千亮.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/周传伟.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/周灵.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/孙宇飞.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/学生.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/崔振.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/张书敏.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/张桐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/张雪雅.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/徐功平.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/徐旭冉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/徐自强.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/徐静杉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/方远.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/朱小涵.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/李勇.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/柳宾辉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/洪晓斌.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/王子立.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/王赟.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/王超群.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/许春燕.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/赵文婷.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/赵月.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/陈杨.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/韩草.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/resized/骆奇瑜.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/乔心舒.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/乔心舒.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/劳灵杰.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/劳灵杰.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/叶代虎.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/叶代虎.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/吕辉.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/吕辉.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/吴千亮.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/吴千亮.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/周传伟.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/周传伟.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/周灵.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/周灵.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/孙宇飞.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/孙宇飞.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/学生.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/学生.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/张书敏.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/张书敏.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/张雪雅.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/张雪雅.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/徐功平.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/徐功平.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/徐旭冉.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/徐旭冉.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/徐自强.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/徐自强.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/徐静杉.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/徐静杉.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/方远.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/方远.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/朱小涵.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/朱小涵.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/柳宾辉.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/柳宾辉.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/洪晓斌.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/洪晓斌.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/王子立.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/王子立.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/王贇.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/王超群.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/王超群.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/赵文婷.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/赵文婷.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/赵月.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/赵月.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/陈杨.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/陈杨.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/韩草.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/韩草.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/PersonalInformation/photos/骆奇瑜.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/PersonalInformation/photos/骆奇瑜.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +244,7 @@
       <workItem from="1607650020895" duration="30654000" />
       <workItem from="1607829314971" duration="11541000" />
       <workItem from="1607850825526" duration="8522000" />
+      <workItem from="1607925546384" duration="3156000" />
     </task>
     <servers />
   </component>
@@ -202,10 +299,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1607831114362" />
-    <state x="893" y="308" width="600" height="804" key="find.popup" timestamp="1607859057296">
+    <state x="893" y="308" width="600" height="804" key="find.popup" timestamp="1607928189636">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="893" y="308" width="600" height="804" key="find.popup/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1607859057296" />
+    <state x="893" y="308" width="600" height="804" key="find.popup/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1607928189636" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FakeRoy_github_io$resize.coverage" NAME="resize Coverage Results" MODIFIED="1606469362539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources/PersonalInformation/photos" />
