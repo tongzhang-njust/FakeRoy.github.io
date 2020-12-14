@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Teacher/Teacher.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Teacher/Teacher.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +148,7 @@
       <workItem from="1607650020895" duration="30654000" />
       <workItem from="1607829314971" duration="11541000" />
       <workItem from="1607850825526" duration="8522000" />
-      <workItem from="1607925546384" duration="3989000" />
+      <workItem from="1607925546384" duration="4341000" />
     </task>
     <servers />
   </component>
