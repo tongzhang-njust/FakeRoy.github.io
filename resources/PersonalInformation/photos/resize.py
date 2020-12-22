@@ -13,7 +13,7 @@ import time
 import xml.etree.ElementTree as ET
 
 
-imagepath="D:/github desktop/FakeRoy.github.io/resources/PersonalInformation/photos/"
+imagepath="D:/github desktop/FakeRoy.github.io/resources/PersonalInformation/photos/rawimage"
 imgsavepath="D:/github desktop/FakeRoy.github.io/resources/PersonalInformation/photos/resized/"
 
 for name in os.listdir(imagepath):
