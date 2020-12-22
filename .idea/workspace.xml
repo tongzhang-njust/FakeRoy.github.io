@@ -148,7 +148,7 @@
       <workItem from="1607850825526" duration="8522000" />
       <workItem from="1607925546384" duration="7999000" />
       <workItem from="1608605656898" duration="12000" />
-      <workItem from="1608625975270" duration="670000" />
+      <workItem from="1608625975270" duration="912000" />
     </task>
     <servers />
   </component>
@@ -203,10 +203,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1607831114362" />
-    <state x="893" y="308" width="600" height="804" key="find.popup" timestamp="1608626627965">
+    <state x="893" y="308" width="600" height="804" key="find.popup" timestamp="1608626820307">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="893" y="308" width="600" height="804" key="find.popup/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1608626627965" />
+    <state x="893" y="308" width="600" height="804" key="find.popup/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1608626820307" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FakeRoy_github_io$resize.coverage" NAME="resize Coverage Results" MODIFIED="1606469362539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources/PersonalInformation/photos" />
