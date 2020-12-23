@@ -24,7 +24,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="" />
+    <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="Revert &quot;1&quot;&#10;&#10;This reverts commit f448f61b2552d9570d45e92083cf8568c66cac43.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;pages/Resource/Resource.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Resource/Resource.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Resource/Resource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/dataset/SFT_OTB.rar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +154,7 @@
       <workItem from="1608605656898" duration="12000" />
       <workItem from="1608625975270" duration="912000" />
       <workItem from="1608626902128" duration="10178000" />
+      <workItem from="1608716167549" duration="364000" />
     </task>
     <servers />
   </component>
@@ -170,6 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Revert &quot;1&quot;&#10;&#10;This reverts commit f448f61b2552d9570d45e92083cf8568c66cac43.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;pages/Resource/Resource.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;1&quot;&#10;&#10;This reverts commit f448f61b2552d9570d45e92083cf8568c66cac43.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;pages/Resource/Resource.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="211" width="1089" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606468867031">
