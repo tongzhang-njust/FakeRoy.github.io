@@ -638,7 +638,7 @@ ul.social-buttons li a:active {
 
 .header-submenu {
 	display: none;
-	border-top: 2px solid $header-margin;
+	//border-top: 2px solid $header-margin;
 	width: 200px;
 	z-index: 100;
 	list-style-type: none;
@@ -649,21 +649,23 @@ ul.social-buttons li a:active {
 	position: relative;
 	padding-left: 10px;
 	width: 100%;
-	border-bottom: 1px solid gray;
-	border-left: 1px solid;
+	//border-bottom: 1px solid gray;
+	//border-left: 1px solid;
 	height: 50px;
 	text-decoration: none;
+	-webkit-tap-highlight-color: #00F7DE;
 }
 
 .sub-item a{
 	vertical-align: middle;
 	display: table-cell;
 	height: 50px;
-	-webkit-tap-highlight-color: #00F7DE;
+
 }
 .sub-item:hover {
-	border-bottom-color: $header-margin;
-	border-left-color: $header-margin;
+	//border-bottom-color: $header-margin;
+	//border-left-color: $header-margin;
+	background-color: #D8D8D8;
 }
 
 .button-twitter {
