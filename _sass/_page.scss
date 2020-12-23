@@ -659,6 +659,7 @@ ul.social-buttons li a:active {
 	vertical-align: middle;
 	display: table-cell;
 	height: 50px;
+	-webkit-tap-highlight-color: #00F7DE;
 }
 .sub-item:hover {
 	border-bottom-color: $header-margin;
