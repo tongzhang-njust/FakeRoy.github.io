@@ -257,7 +257,7 @@ header .entry-meta {
 	// Dotted line underlines for links
 	p > a,
 	li > a {
-		border-bottom: 1px dotted lighten($link-color, 50);
+
 		&:hover {
 			border-bottom-style: solid;
 		}
@@ -326,9 +326,7 @@ ul.social-buttons li a:active {
     color: #222;
     background-color: #fec503;
 }
-.read-more-list {
-	border-top: solid 2px lighten($base-color,80);
-}
+
 .list-item {
 	width: 100%;
 	text-align: left;
