@@ -26,8 +26,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="Revert &quot;1&quot;&#10;&#10;This reverts commit f448f61b2552d9570d45e92083cf8568c66cac43.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;pages/Resource/Resource.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/layui-v2.5.7/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/layui-v2.5.7/layui/css/layui.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Teacher/LiYong.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Teacher/LiYong.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +155,7 @@
       <workItem from="1608626902128" duration="10178000" />
       <workItem from="1608716167549" duration="364000" />
       <workItem from="1608721647011" duration="6445000" />
-      <workItem from="1609042590810" duration="2183000" />
+      <workItem from="1609042590810" duration="2786000" />
     </task>
     <servers />
   </component>
