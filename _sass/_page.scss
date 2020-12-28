@@ -606,6 +606,7 @@ ul.social-buttons li a:active {
 }
 .header-item{
 	height: 100%;
+	width: 140px;
 	display: none;
 	@media #{$large} {
 		display: block;
@@ -640,10 +641,10 @@ ul.social-buttons li a:active {
 .header-submenu {
 	display: none;
 	//border-top: 2px solid $header-margin;
-	width: 200px;
+	width: 150px;
 	z-index: 100;
 	list-style-type: none;
-	transform: translateX(-25%);
+	transform: translateX(-17%);
 }
 
 .sub-item {
