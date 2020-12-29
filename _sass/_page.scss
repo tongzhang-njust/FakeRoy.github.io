@@ -547,7 +547,7 @@ ul.social-buttons li a:active {
 		height: 100%;
 		padding: 0;
 		@media #{$large} {
-			max-width: 1200px;
+			max-width: 1150px;
 		}
 	}
 }
@@ -608,7 +608,7 @@ ul.social-buttons li a:active {
 	height: 100%;
 	width: 140px;
 	display: none;
-	
+
 	@media #{$large} {
 		display: block;
 	}
