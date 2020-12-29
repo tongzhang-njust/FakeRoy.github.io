@@ -608,8 +608,12 @@ ul.social-buttons li a:active {
 	height: 100%;
 	width: 140px;
 	display: none;
+	
 	@media #{$large} {
 		display: block;
+	}
+	a {
+		text-align: center;
 	}
 }
 .header-item-title{
