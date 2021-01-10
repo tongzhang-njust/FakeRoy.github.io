@@ -26,6 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="Revert &quot;1&quot;&#10;&#10;This reverts commit f448f61b2552d9570d45e92083cf8568c66cac43.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;pages/Resource/Resource.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/PersonalInformation/photos/resize.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -156,7 +157,9 @@
       <workItem from="1608721647011" duration="6445000" />
       <workItem from="1609042590810" duration="7465000" />
       <workItem from="1609051004237" duration="9426000" />
-      <workItem from="1609231552592" duration="1966000" />
+      <workItem from="1609231552592" duration="2927000" />
+      <workItem from="1610179768988" duration="30000" />
+      <workItem from="1610264700588" duration="567000" />
     </task>
     <servers />
   </component>
@@ -193,10 +196,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="681" y="333" key="EditFileWatcherDialog/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1608887034027" />
-    <state x="892" y="347" key="FileChooserDialogImpl" timestamp="1608887031011">
+    <state x="892" y="347" key="FileChooserDialogImpl" timestamp="1610179797527">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="892" y="347" key="FileChooserDialogImpl/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1608887031011" />
+    <state x="892" y="347" key="FileChooserDialogImpl/0.0.2048.1112/2560.235.1920.1040@0.0.2048.1112" timestamp="1610179797527" />
     <state width="1002" height="305" key="GridCell.Tab.0.bottom" timestamp="1606742143163">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
