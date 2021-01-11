@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e301525a-caa5-423c-99ca-945d1789053c" name="Default Changelist" comment="Revert &quot;1&quot;&#10;&#10;This reverts commit f448f61b2552d9570d45e92083cf8568c66cac43.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;pages/Resource/Resource.html">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +158,7 @@
       <workItem from="1609051004237" duration="9426000" />
       <workItem from="1609231552592" duration="2927000" />
       <workItem from="1610179768988" duration="30000" />
-      <workItem from="1610264700588" duration="951000" />
+      <workItem from="1610264700588" duration="2338000" />
     </task>
     <servers />
   </component>
