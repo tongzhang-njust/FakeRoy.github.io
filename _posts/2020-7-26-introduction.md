@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction of our group"
+title: "Introduction of our group."
 description: "Welcome."
 tags: [introduction]
 categories: [Introduction]
