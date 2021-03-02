@@ -1,52 +1,54 @@
 ---
 layout: home
-title: Introduction
+title: VGG_PCALAB@NJUST
 comments: false
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
 
-
 <div class="main-content-section clearfix"  >
-    <div id="primary">
+
+
         <div id="content" class="clearfix">
             <div class="article-container" >
-
                 <div id="post-4" class="post-4 page type-page status-publish hentry">
-
-<!--                    <header class="entry-header" style="background: #e8e8e8 ;height: 35%" >-->
                         <h1 class="entry-title" style="font-weight: bold;">
-                            VGG_PCALAB@NJUST   		</h1>
+                            Introduction:   		</h1>
 <!--                    </header>-->
                     <div class="entry-content clearfix">
                         <p  style="font-size: 20px">
                             <a href="https://fakeroy.github.io//introduction/introduction/">
                                 Vision and Graph Group (VGG) is affiliated with the PCA Lab, School of Computer Science and Engineering, Nanjing University of Science and Technology.<br>
-                                The VGG’s study covers Computer Vision (CV) and Artificial Intelligence (AI). Specifically, the study group focuses on graph learning (graph neural network), vision perception & computation (segmentation/detection/tracking), face analysis (emotion), etc. In addition, VGG also pays attention to many applications such as anomaly detection, intelligent agent, etc.
+                                The VGG’s study covers Computer Vision (CV)and Artificial Intelligence (AI). Specifically, the study group focuses on graph learning (graph neural network), vision perception & computation (segmentation/detection/tracking), face analysis (emotion), etc. In addition, VGG also pays attention to many applications such as anomaly detection, intelligent agent, etc.
                                 The study group aims to develop/create novel intelligent theories/methods to solve some key problems in CV & AI.<br>
                                 Currently, the group contains more than 30 members totally, four full-time teachers among them.
                                 Please see the internal website for more details.</a></p>
                     </div>
-
-
+                </div>
             </div>
-        </div>
             <div class="title-box clearfix" >
             <h2 class="title-box_primary" style="font-size:35px;color:rgb(92,92,92)">Latest News</h2>
             </div>
 
                 <div class="list styled custom-list" style="font-size: 20px">
-
             <ul>
-            <li><a href="http://fakeroy.github.io/congratulations/paper5886/">Congratulations for two papers accepted by CVPR 2021!<img src="https://FakeRoy.github.io/images/new2.gif"></a></li>
-            <li><a href="http://fakeroy.github.io/congratulations/paperWang/">Congratulations for Tong Zhang, Yun Wang of paper accepted by AAAI 21!<img src="https://FakeRoy.github.io/images/new2.gif"></a></li><a href="news/news20190000.html"></a>
-            <li><a href="http://fakeroy.github.io/congratulations/paperHong/">Congratulations for Xiaobin Hong, Tong Zhang of paper accepted by AAAI 21!<img src="https://FakeRoy.github.io/images/new2.gif"></a></li>
-            <br>
-            <a href="http://fakeroy.github.io/pages/News/News/" title="read more" class="btn-inline " target="_self">Read More...</a>
-            </ul>
-          </div>
+              {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign cats_list = site_cats | split:',' | sort %}
 
+
+
+{% for item in (0..1) %}{% unless forloop.last %}
+  {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
+
+    {% for post in site.categories[this_word] limit:3 %}{% if post.title != null %}
+      <li><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}<img src="https://FakeRoy.github.io/images/new2.gif"></a></li>
+    {% endif %}{% endfor %}
+
+{% endunless %}{% endfor %}
+
+        <br>
+            <a href="http://fakeroy.github.io/pages/News/News/" title="read more" class="btn-inline " target="_self">Read more...</a>
     </div>
 </div>
 </div>
