@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Introduction"
+title: "Introduction of our group."
 description: "Welcome."
-tags: [introduction]
+tags: [Introduction of our group.]
 categories: [Introduction]
 ---
 Vision and Graph Group (VGG) is affiliated with the PCA Lab, School of Computer Science and Engineering, Nanjing University of Science and Technology. 
