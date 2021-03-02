@@ -44,6 +44,11 @@ comments: false
             <li><a href="http://fakeroy.github.io/congratulations/paperHong/">Congratulations for Xiaobin Hong, Tong Zhang of paper accepted by AAAI 21!<img src="https://FakeRoy.github.io/images/new2.gif"></a></li>
             <br>
             <a href="http://fakeroy.github.io/pages/News/News/" title="read more" class="btn-inline " target="_self">Read more...</a>
+
+                 {% for post in site.categories[this_word] %}{% if post.title != null %}
+
+      <li> <a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}</a></li>
+    {% endif %}{% endfor %}
             </ul>
           </div>
 
