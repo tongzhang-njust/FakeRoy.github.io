@@ -42,7 +42,7 @@ comments: false
   {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
 
     {% for post in site.categories[this_word] limit:3 %}{% if post.title != null %}
-      <li><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}<img src="https://FakeRoy.github.io/images/new2.gif"></a></li>
+      <li><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}<img src="https://FakeRoy.github.io/images/new.gif"></a></li>
     {% endif %}{% endfor %}
 
 {% endunless %}{% endfor %}
