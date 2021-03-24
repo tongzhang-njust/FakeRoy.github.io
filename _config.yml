@@ -23,7 +23,7 @@ menu:
   - title: 'News'
     url: '/pages/News/News'
   - title: 'Teachers'
-    url: '/pages/Teacher/Teacher'
+    url: '/pages/Teacher'
     submenu:
       - title: 'Zhen Cui'
         url: '/pages/Teacher/CuiZhen'
@@ -34,9 +34,9 @@ menu:
       - title: 'Yong Li'
         url: '/pages/Teacher/LiYong'
   - title: 'Students'
-    url: '/pages/Student/Student'
+    url: '/pages/Student'
   - title: 'Publications'
-    url: '/pages/Publications/Publications'
+    url: '/pages/Publications'
     submenu:
       - title: '2020'
         url: '/pages/Publications/2020'
@@ -52,7 +52,7 @@ menu:
         url: '/pages/Publications/before2015'
 
   - title: 'Resources'
-    url: '/pages/Resource/Resource'
+    url: '/pages/Resource'
 
 
 
