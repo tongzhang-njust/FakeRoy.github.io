@@ -21,7 +21,7 @@ menu:
   - title: 'Home'
     url: '/Introduction'
   - title: 'News'
-    url: '/pages/News/News'
+    url: '/pages/News'
   - title: 'Teachers'
     url: '/pages/Teacher'
     submenu:
