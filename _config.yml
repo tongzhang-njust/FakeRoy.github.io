@@ -38,6 +38,8 @@ menu:
   - title: 'Publications'
     url: '/pages/Publications'
     submenu:
+      - title: '2021'
+        url: '/pages/Publications/2021'
       - title: '2020'
         url: '/pages/Publications/2020'
       - title: '2019'
