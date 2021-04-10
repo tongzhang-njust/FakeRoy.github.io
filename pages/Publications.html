@@ -7,6 +7,7 @@ comments: false
 <div class="entry-content clearfix">
     <h2><strong><em>Paper lists over years:</em></strong></h2>
         <div class="layui-btn-container">
+            <button type="button" class="layui-btn layui-btn-radius" style="background-color: #A9A9A9"><a href="http://vgg-ai.cn/pages/Publications/2021/" style="color: white" >2020</a></button>
             <button type="button" class="layui-btn layui-btn-radius" style="background-color: #A9A9A9"><a href="http://vgg-ai.cn/pages/Publications/2020/" style="color: white" >2020</a></button>
             <button type="button" class="layui-btn layui-btn-radius"  style="background-color: #AFAFAF"><a href="http://vgg-ai.cn/pages/Publications/2019/" style="color: white">2019</a></button>
             <button type="button" class="layui-btn layui-btn-radius" style="background-color: #B5B5B5"><a href="http://vgg-ai.cn/pages/Publications/2018/" style="color: white">2018</a></button>
@@ -15,7 +16,7 @@ comments: false
             <button type="button" class="layui-btn layui-btn-radius" style="background-color: #C6C6C6"><a href="http://vgg-ai.cn/pages/Publications/before2015/" style="color: white">before 2015</a></button>
         </div>
 
-    <h2><strong><em>Lateset publications of teachers:</em></strong></h2>
+    <h2><strong>Lateset publications:</strong></h2>
 
        {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign cats_list = site_cats | split:',' | sort %}
