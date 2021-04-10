@@ -15,21 +15,20 @@ comments: false
             <button type="button" class="layui-btn layui-btn-radius" style="background-color: #C6C6C6"><a href="http://vgg-ai.cn/pages/Publications/before2015/" style="color: white">before 2015</a></button>
         </div>
 
-    <h2><strong><em>Representative publications of teachers:</em></strong></h2>
-    <h3><strong><em>Zhen Cui:</em></strong></h3>
-    <p>- Zhen Cui, Hong Chang, Shiguang Shan, Bineng Zhong, Xilin Chen. <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.9220&rep=rep1&type=pdf"> Deep network cascade for image super-resolution.</a><br> ECCV 2014.</p>
-    <p>- Zhen Cui, Wen Li, Dong Xu, Shiguang Shan, Xilin Chen. <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2013/html/Cui_Fusing_Robust_Face_2013_CVPR_paper.html"> Fusing robust face region descriptors via multiple metric learning for face recognition in the wild.</a> CVPR 2013.</p>
-    <p>- Zhen Cui, Shengtao Xiao, Jiashi Feng, Shuicheng Yan. <a href="https://openaccess.thecvf.com/content_cvpr_2016/html/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.html"> Recurrently target-attending tracking.</a> CVPR 2016.</p>
-    <h3><strong><em>Chunyan Xu:</em></strong></h3>
-    <p>- Chunyan Xu, Canyi Lu, Xiaodan Liang, Junbin Gao, Wei Zheng, Tianjiang Wang, Shuicheng Yan. <a href="https://ieeexplore.ieee.org/abstract/document/7258343">Multi-loss regularized deep neural network.</a>  TCSVT 2015.</p>
-    <p>- Chunyan Xu, Tianjiang Wang, Junbin Gao, Shougang Cao, Wenbing Tao, Fang Liu. <a href="https://ieeexplore.ieee.org/abstract/document/6627995">An ordered-patch-based image classification approach on the image Grassmannian manifold.</a> TNNLS 2013.</p>
-    <p>- Chunyan Xu, Canyi Lu, Junbin Gao, Wei Zheng, Tianjiang Wang, Shuicheng Yan. <a href="https://ieeexplore.ieee.org/abstract/document/7014277"> Discriminative analysis for symmetric positive definite matrices on lie groups.</a> TCSVT 2015.</p>
-    <h3><strong><em>Tong Zhang:</em></strong></h3>
-    <p>- Tong Zhang, Wenming Zheng, Zhen Cui, Yuan Zong, Jingwei Yan, Keyu Yan. <a href="https://ieeexplore.ieee.org/abstract/document/7530823/"> A deep neural network-driven feature learning method for multi-view facial expression recognition.</a> TMM 2016.</p>
-    <p>- Tong Zhang, Wenming Zheng, Zhen Cui, Yuan Zong, Yang Li. <a href="https://ieeexplore.ieee.org/abstract/document/8275511">Spatial–temporal recurrent neural network for emotion recognition.</a>  IEEE transactions on cybernetics 2019.</p>
-    <p>- Tong Zhang, Wenming Zheng, Zhen Cui, Chaolong Li. <a href="https://ieeexplore.ieee.org/abstract/document/8451626"> Deep manifold-to-manifold transforming network.</a> ICIP 2018.</p>
-    <h3><strong><em>Yong Li:</em></strong></h3>
-    <p>- Yong Li, Jiabei Zeng, Shiguang Shan, Xilin Chen. <a href="https://ieeexplore.ieee.org/abstract/document/8576656"> Occlusion aware facial expression recognition using cnn with attention mechanism.</a> TIP 2018.</p>
-    <p>- Yong Li, Jiabei Zeng, Shiguang Shan, Xilin Chen. <a href="https://ieeexplore.ieee.org/abstract/document/8545853"> Patch-gated cnn for occlusion-aware facial expression recognition.</a> <br>ICPR 2018.</p>
-    <p>- Yong Li, Jiabei Zeng, Shiguang Shan, Xilin Chen. <a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.html"> Self-supervised representation learning from videos for facial action unit detection.</a> CVPR 2019.</p>
+    <h2><strong><em>Lateset publications of teachers:</em></strong></h2>
+        <p>- Lv Hui, Zhou Chunwei, Cui Zhen, et al. <a href=""> Localizing anomalies from weakly-labeled videos. </a> IEEE TIP 2021.</p>
+       {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign cats_list = site_cats | split:',' | sort %}
+
+
+
+{% for item in (0..1) %}{% unless forloop.last %}
+  {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
+
+    {% for post in site.categories[this_word] limit:3 %}{% if post.title != null %}
+      <li><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}<img src="https://FakeRoy.github.io/images/new.gif"></a></li>
+    {% endif %}{% endfor %}
+
+{% endunless %}{% endfor %}
+
 </div>
