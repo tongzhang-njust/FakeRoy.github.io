@@ -16,7 +16,7 @@ comments: false
         </div>
 
     <h2><strong><em>Lateset publications of teachers:</em></strong></h2>
-        <p>- Lv Hui, Zhou Chunwei, Cui Zhen, et al. <a href=""> Localizing anomalies from weakly-labeled videos. </a> IEEE TIP 2021.</p>
+
        {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign cats_list = site_cats | split:',' | sort %}
 
@@ -25,8 +25,8 @@ comments: false
 {% for item in (0..1) %}{% unless forloop.last %}
   {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
 
-    {% for post in site.categories[this_word] limit:10 %}{% if post.title != null %}
-    <p> {{ post.author }}{{ post.paper_title }}{{ post.paper }} <img src="https://FakeRoy.github.io/images/new.gif"><p>
+    {% for post in site.categories[this_word] limit:10 %}{% if post.author != null %}
+    <p>- {{ post.author }} {{ post.paper_title }} {{ post.paper }} <p>
     {% endif %}{% endfor %}
 
 {% endunless %}{% endfor %}
