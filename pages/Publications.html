@@ -26,7 +26,7 @@ comments: false
   {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
 
     {% for post in site.categories[this_word] limit:10 %}{% if post.title != null %}
-    <p> {{ post.author }}.{{ post.paper_title }}.{{ post.paper }} <img src="https://FakeRoy.github.io/images/new.gif"><p>
+    <p> {{ post.author }}{{ post.paper_title }}{{ post.paper }} <img src="https://FakeRoy.github.io/images/new.gif"><p>
     {% endif %}{% endfor %}
 
 {% endunless %}{% endfor %}
