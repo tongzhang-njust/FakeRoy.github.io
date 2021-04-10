@@ -2,7 +2,7 @@
 layout: post
 title: "Congratulations for Chunyan Xu, Rong Liu of paper accepted by TOMM 21!"
 description: "recent paper."
-tags: [Chunyan Xu, Rong Liu]
+tags: [Chunyan Xu, Rong Liu,Tong Zhang,Zhen Cui]
 categories: [Congratulations]
 ---
 祝贺刘蓉,许春燕的论文被TOMM 2021收录。

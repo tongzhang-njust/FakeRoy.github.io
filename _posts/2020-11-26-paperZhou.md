@@ -2,7 +2,7 @@
 layout: post
 title: "Congratulations for Chuanwei Zhou of paper accepted by TNNLS!"
 description: "recent paper."
-tags: [Chuanwei Zhou]
+tags: [Chuanwei Zhou,Chunyan Xu,Zhen Cui,Tong Zhang]
 categories: [Congratulations]
 ---
 祝贺周传伟的论文被TNNLS期刊收录。
