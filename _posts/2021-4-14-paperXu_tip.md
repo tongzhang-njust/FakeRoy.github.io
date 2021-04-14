@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations for Chunyan Xu of paper accepted by CVPR 21!"
+title: "Congratulations for Chunyan Xu of paper accepted by TIP 21!"
 description: "recent paper."
 tags: [Chunyan Xu,Cui Zhen]
 author: Chunyan Xu, Li Wei, Zhen Cui*, Tong Zhang, Jian Yang.
