@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Congratulations for Chunyan Xu of paper accepted by CVPR 21!"
+description: "recent paper."
+tags: [Chunyan Xu,Cui Zhen]
+author: Chunyan Xu, Li Wei, Zhen Cui*, Tong Zhang, Jian Yang.
+paper_title: Meta-VOS: Learning to Adapt Online Target-Specific Segmentation.
+paper: TIP 2021.
+categories: [Congratulations]
+---
+祝贺许春燕的论文被TIP收录。
+
+论文题目: Chunyan Xu, Li Wei, Zhen Cui*, Tong Zhang, Jian Yang. Meta-VOS: Learning to Adapt Online Target-Specific Segmentation. IEEE Transactions on Image Processing (TIP). 2021. 
+
+
