@@ -3,6 +3,7 @@ layout: post
 title: "Congratulations for Chuanwei Zhou of paper accepted by TNNLS!"
 description: "recent paper."
 tags: [Chuanwei Zhou,Chunyan Xu,Zhen Cui,Tong Zhang]
+websites: [Student/PHD/ZhouChuanwei,Teacher/XuChunyan,Teacher/CuiZhen,Teacher/ZhangTong]
 author: Chuanwei Zhou, Chunyan Xu*, Zhen Cui, Tong Zhang, Jian Yang*. 
 paper_title: Self-Teaching Video Object Segmentation. 
 paper: TNNLS 2021.

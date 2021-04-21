@@ -3,6 +3,7 @@ layout: post
 title: "Congratulations for Chunyan Xu, Rong Liu of paper accepted by TOMM 21!"
 description: "recent paper."
 tags: [Chunyan Xu, Rong Liu,Tong Zhang,Zhen Cui]
+websites: [Teacher/XuChunyan,Student,Teacher/ZhangTong,Teacher/CuiZhen]
 author: Chunyan Xu, Rong Liu, Tong Zhang, Zhen Cui, Jian Yang, and ChunLong Hu.
 paper_title: Dual-Stream Structured Graph Convolution Network for Skeleton-based Action Recognition.
 paper: TOMM 2021.

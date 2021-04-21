@@ -3,6 +3,7 @@ layout: post
 title: "Congratulations for Hui Lv of paper accepted by CVPR 21!"
 description: "recent paper."
 tags: [Hui Lv,Cui Zhen]
+websites: [Student/PHD/LvHui,Teacher/CuiZhen]
 author: Hui Lv, Chen Chen, Zhen Cui*, Chunyan Xu, Yong Li, and Jian Yang.
 paper_title: Normal Dynamics in Videos with Meta Prototype Network.
 paper: CVPR 2021.

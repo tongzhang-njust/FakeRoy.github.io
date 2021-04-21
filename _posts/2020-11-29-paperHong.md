@@ -3,6 +3,7 @@ layout: post
 title: "Congratulations for Xiaobin Hong, Tong Zhang of paper accepted by AAAI 21!"
 description: "recent paper."
 tags: [Xiaobin Hong,Tong Zhang,Zhen Cui]
+websites: [Student/Master/HongXiaobin,Teacher/ZhangTong,Teacher/CuiZhen]
 author: Xiaobin Hong, Tong Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, Jian Yang.
 paper_title: Graph Game Embedding. 
 paper: AAAI 2021.

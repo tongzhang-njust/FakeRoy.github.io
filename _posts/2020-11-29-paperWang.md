@@ -3,6 +3,7 @@ layout: post
 title: "Congratulations for Tong Zhang, Yun Wang of paper accepted by AAAI 21!"
 description: "recent paper."
 tags: [Yun Wang,Tong Zhang,Zhen Cui]
+websites: [Student/Master/WangYun,Teacher/ZhangTong,Teacher/CuiZhen]
 author: Tong Zhang, Yun Wang, Zhen Cui, Chunawei Zhou, Baoliang Cui, Haikuan Huang, Jian Yang.
 paper_title: Deep Wasserstein Graph Discriminant Learning for Graph Classification.
 paper: AAAI 2021.
