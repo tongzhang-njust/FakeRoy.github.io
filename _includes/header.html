@@ -49,9 +49,9 @@
 <div class="entry-header" style="background: #e8e8e8 ;background:url(https://FakeRoy.github.io/images/title.jpg) ; background-size: 100%  100%"   >
   <div class="header-title">
     <div class="header-title-wrap" style="width: 180px;height: 90px" >
-      <h1>{{ page.title }}</h1>
+<!--      <h1 >{{ page.title }}</h1>-->
       {% if page.date %}
-        <h2><span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span></h2>
+        <h1 style="color: #0C0C0C"><span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span></h1>
       {% else %}
         <h2><span class="entry-date"><time>&nbsp;</time></span></h2>
       {% endif %}
