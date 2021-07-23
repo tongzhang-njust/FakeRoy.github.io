@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Congratulations for Yun Wang  of paper accepted by ICCV 21!"
+description: "recent paper."
+tags: [Yun Wang,Tong Zhang,Cui Zhen]
+websites: [Teacher/CuiZhen,Teacher/ZhangTong]
+author: Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang. 
+paper_title: Wasserstein Coupled Graph Learning for Cross-Modal Retrieval. 
+paper: ICCV 21.
+categories: [Congratulations]
+---
+祝贺王贇的论文被ICCV收录。
+
+论文题目: Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang. Wasserstein Coupled Graph Learning for Cross-Modal Retrieval. ICCV 2021.  
+
+
