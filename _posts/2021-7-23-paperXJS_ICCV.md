@@ -2,8 +2,8 @@
 layout: post
 title: "Congratulations for Jingshan Xu  of paper accepted by IJCAI 21!"
 description: "recent paper."
-tags: [Jingshan Xu,Cui Zhen]
-websites: [Teacher/CuiZhen,Teacher/Xuchunyan]
+tags: [Jingshan Xu,Zhen Cui,Chunyan Xu]
+websites: [Student/Master/XuJingshan,Teacher/CuiZhen,Teacher/Xuchunyan]
 author: Jingshan Xu, Chuanwei Zhou, Zhen Cui, Chunyan Xu, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang. 
 paper_title: Scribble-Supervised Semantic Segmentation Inference. 
 paper: ICCV 21.

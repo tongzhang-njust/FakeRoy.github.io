@@ -2,7 +2,7 @@
 layout: post
 title: "Congratulations for ling Zhou  of paper accepted by ACM MM 21!"
 description: "recent paper."
-tags: [Ling Zhou,Yong Li]
+tags: [Yong Li,Zhen Cui]
 websites: [Teacher/LiYong,Teacher/CuiZhen]
 author: Xiaoya Zhang, Ling Zhou, Yong Li, Zhen Cui, Jin Xie, and Jian Yang. 
 paper_title: Transfer Vision Patterns for Multi-Task Pixel Learning. 

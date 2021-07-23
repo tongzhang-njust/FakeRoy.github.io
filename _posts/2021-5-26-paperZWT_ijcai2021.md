@@ -2,8 +2,8 @@
 layout: post
 title: "Congratulations for Wenting Zhao  of paper accepted by IJCAI 21!"
 description: "recent paper."
-tags: [Wenting Zhao,Cui Zhen]
-websites: [Teacher/CuiZhen,Teacher/Xuchunyan,Teacher/ZhangTong]
+tags: [Wenting Zhao,Zhen Cui,Tong Zhang]
+websites: [Student/PHD/ZhaoWenting,Teacher/CuiZhen,Teacher/ZhangTong]
 author: Wenting Zhao， Yuan Fang， Zhen Cui*，Tong Zhang and Jian Yang.
 paper_title: Graph Deformer Network.
 paper: IJCAI 21.
