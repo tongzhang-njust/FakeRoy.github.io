@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations for Jingshan Xu  of paper accepted by IJCAI 21!"
+title: "Congratulations for Jingshan Xu  of paper accepted by ICCV 21!"
 description: "recent paper."
 tags: [Jingshan Xu,Zhen Cui,Chunyan Xu]
 websites: [Student/Master/XuJingshan,Teacher/CuiZhen,Teacher/Xuchunyan]

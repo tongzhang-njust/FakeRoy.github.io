@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations for ling Zhou  of paper accepted by ACM MM 21!"
+title: "Congratulations for Ling Zhou  of paper accepted by ACM MM 21!"
 description: "recent paper."
 tags: [Yong Li,Zhen Cui]
 websites: [Teacher/LiYong,Teacher/CuiZhen]
