@@ -6,10 +6,10 @@ tags: [Xiaobin Hong,Tong Zhang,Zhen Cui]
 websites: [Student/Master/HongXiaobin,Teacher/ZhangTong,Teacher/CuiZhen]
 author: Xiaobin Hong, Tong Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, Jian Yang.
 paper_title: Graph Game Embedding. 
-paper: AAAI 2021.
+paper: AAAI Conference on Artificial Intelligence(AAAI) 2021.
 categories: [Congratulations]
 ---
-祝贺洪晓斌, 张桐的论文被AAAI2021收录。
+祝贺洪晓斌, 张桐的论文被AAAI 2021收录。
 
-论文题目:Xiaobin Hong, Tong Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, Jian Yang. Graph Game Embedding. AAAI 2021.
+论文题目:Xiaobin Hong, Tong Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, Jian Yang. Graph Game Embedding. AAAI Conference on Artificial Intelligence(AAAI) 2021.
 
