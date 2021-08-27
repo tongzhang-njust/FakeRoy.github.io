@@ -52,10 +52,10 @@ menu:
         url: '/pages/Publications/2016'
       - title: 'Before  2015'
         url: '/pages/Publications/before2015'
-
   - title: 'Resources'
     url: '/pages/Resource'
-
+  - title: 'admisson'
+    url: '/pages/admisson'
 
 
 # Owner/author information
