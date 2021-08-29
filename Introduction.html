@@ -14,16 +14,16 @@ comments: false
             <div class="article-container" >
                 <div id="post-4" class="post-4 page type-page status-publish hentry">
                         <h1 class="entry-title" style="font-weight: bold;">
-                            Introduction:   		</h1>
+                            <a href="http://vgg-ai.cn//introduction/introduction/">Introduction: </a>  		</h1>
 <!--                    </header>-->
                     <div class="entry-content clearfix">
                         <p  style="font-size: 20px">
-                            <a href="http://vgg-ai.cn//introduction/introduction/">
+
                                 Vision and Graph Group (VGG) is affiliated with the PCA Lab, School of Computer Science and Engineering, Nanjing University of Science and Technology.<br>
                                 The VGG’s study covers Computer Vision (CV) and Artificial Intelligence (AI). Specifically, the study group focuses on graph learning (graph neural network), vision perception & computation (segmentation/detection/tracking), face analysis (emotion), etc. In addition, VGG also pays attention to many applications such as anomaly detection, intelligent agent, etc.
                                 The study group aims to develop/create novel intelligent theories/methods to solve some key problems in CV & AI.<br>
                                 Currently, the group contains more than 30 members totally, four full-time teachers among them.
-                                Please see the internal website for more details.</a></p>
+                                Please see the internal website for more details.</p>
                     </div>
                 </div>
             </div>
@@ -50,13 +50,13 @@ comments: false
   {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
 
     {% for post in site.categories[this_word] limit:5 %}{% if post.title != null %}
-      <li><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}<img src="http://vgg-ai.cn/images/new.gif"></a></li>
+      <li><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}<img src="https://daihu-ye.github.io/images/new.gif"></a></li>
     {% endif %}{% endfor %}
 
 {% endunless %}{% endfor %}
 
         <br>
             <a href="http://daihu-ye.github.io/pages/News/" title="read more" class="btn-inline " target="_self">Read more...</a>
-                </div>
+    </div>
 </div>
-
+</div>
